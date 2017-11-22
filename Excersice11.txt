@@ -1,0 +1,3 @@
+Test with code from the master
+Now, this content comes from the fast forward branch
+New line will generate conflict fomr GitHub
