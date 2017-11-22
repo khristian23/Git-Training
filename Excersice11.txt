@@ -1,4 +1,4 @@
 Test with code from the master
 Now, this content comes from the fast forward branch
 New line will generate conflict fomr GitHub
-change 8 from master
+change 9 from master
